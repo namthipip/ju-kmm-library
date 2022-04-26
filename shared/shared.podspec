@@ -1,7 +1,8 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'shared'
-    spec.version                  = '1.1'
+    spec.version                  = '1.0'
     spec.homepage                 = 'Link to the Shared Module homepage'
+    spec.source                   = { :git => "Not Published", :tag => "Cocoapods/#{spec.name}/#{spec.version}" }
 #     spec.source                   = { :http=> ''}
 #     spec.source           = { :git => 'https://github.com/Judrummer/ju-kmm-library', :tag => '#{spec.version}'}
     spec.authors                  = ''
