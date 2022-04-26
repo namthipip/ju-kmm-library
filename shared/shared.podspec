@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
     spec.version                  = '1.1'
     spec.homepage                 = 'Link to the Shared Module homepage'
 #     spec.source                   = { :http=> ''}
-    spec.source           = { :git => 'https://github.com/Judrummer/ju-kmm-library', :tag => '#{spec.version}'}
+#     spec.source           = { :git => 'https://github.com/Judrummer/ju-kmm-library', :tag => '#{spec.version}'}
     spec.authors                  = ''
     spec.license                  = ''
     spec.summary                  = 'Some description for the Shared Module'
